@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="BMkurs">
+</Property><Property Name="Solution File" Value="G:\BMkurs\BMkurs.sln">
+</Property><Property Name="User Options File" Value="G:\BMkurs\BMkurs.suo">
+</Property><Property Name="Date" Value="19 ноября 2013 г.">
+</Property><Property Name="Time" Value="10:47">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="BMkurs.sln" Description="File successfully backed up as G:\BMkurs\Backup\BMkurs.sln">
+</Event><Event ErrorLevel="0" Project="" Source="BMkurs.suo" Description="File successfully backed up as G:\BMkurs\Backup\BMkurs.suo">
+</Event><Event ErrorLevel="0" Project="BMkurs" Source="BMkurs\BMkurs.csproj" Description="Project file successfully backed up as G:\BMkurs\Backup\BMkurs\BMkurs.csproj">
+</Event><Event ErrorLevel="0" Project="BMkurs" Source="BMkurs\ap.cs" Description="File successfully backed up as G:\BMkurs\Backup\BMkurs\ap.cs">
+</Event><Event ErrorLevel="0" Project="BMkurs" Source="BMkurs\det.cs" Description="File successfully backed up as G:\BMkurs\Backup\BMkurs\det.cs">
+</Event><Event ErrorLevel="0" Project="BMkurs" Source="BMkurs\Form1.cs" Description="File successfully backed up as G:\BMkurs\Backup\BMkurs\Form1.cs">
+</Event><Event ErrorLevel="0" Project="BMkurs" Source="BMkurs\Form1.Designer.cs" Description="File successfully backed up as G:\BMkurs\Backup\BMkurs\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="BMkurs" Source="BMkurs\inv.cs" Description="File successfully backed up as G:\BMkurs\Backup\BMkurs\inv.cs">
+</Event><Event ErrorLevel="0" Project="BMkurs" Source="BMkurs\lu.cs" Description="File successfully backed up as G:\BMkurs\Backup\BMkurs\lu.cs">
+</Event><Event ErrorLevel="0" Project="BMkurs" Source="BMkurs\Program.cs" Description="File successfully backed up as G:\BMkurs\Backup\BMkurs\Program.cs">
+</Event><Event ErrorLevel="0" Project="BMkurs" Source="BMkurs\Properties\AssemblyInfo.cs" Description="File successfully backed up as G:\BMkurs\Backup\BMkurs\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="BMkurs" Source="BMkurs\Properties\Resources.Designer.cs" Description="File successfully backed up as G:\BMkurs\Backup\BMkurs\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="BMkurs" Source="BMkurs\Properties\Settings.Designer.cs" Description="File successfully backed up as G:\BMkurs\Backup\BMkurs\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="BMkurs" Source="BMkurs\trinverse.cs" Description="File successfully backed up as G:\BMkurs\Backup\BMkurs\trinverse.cs">
+</Event><Event ErrorLevel="0" Project="BMkurs" Source="BMkurs\vm.cs" Description="File successfully backed up as G:\BMkurs\Backup\BMkurs\vm.cs">
+</Event><Event ErrorLevel="0" Project="BMkurs" Source="BMkurs\Properties\Settings.settings" Description="File successfully backed up as G:\BMkurs\Backup\BMkurs\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="BMkurs" Source="BMkurs\Form1.resx" Description="File successfully backed up as G:\BMkurs\Backup\BMkurs\Form1.resx">
+</Event><Event ErrorLevel="0" Project="BMkurs" Source="BMkurs\Properties\Resources.resx" Description="File successfully backed up as G:\BMkurs\Backup\BMkurs\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="BMkurs" Source="BMkurs\BMkurs.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="BMkurs" Source="BMkurs\BMkurs.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="BMkurs.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="BMkurs.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="BMkurs" Source="BMkurs\BMkurs.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
